@@ -12,7 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="day01_vue" target="1.8" />
-      <module name="day01_vuejsdemo" target="1.7" />
+      <module name="day01_vuejsdemo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
